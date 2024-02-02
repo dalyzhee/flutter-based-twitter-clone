@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "105721110299",
+    "firebase_url": "https://twitt-don-default-rtdb.firebaseio.com",
+    "project_id": "twitt-don",
+    "storage_bucket": "twitt-don.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105721110299:android:b9313a63d58c9d814d3dbe",
+        "android_client_info": {
+          "package_name": "com.example.twitter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACIGFUosPuztsaBfCion-68JxWaTwwF_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
